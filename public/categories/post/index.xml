@@ -1,51 +1,51 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Post on Red Blowfish</title>
-    <link>//localhost:1313/categories/post/</link>
-    <description>Recent content in Post on Red Blowfish</description>
+    <title>Post on Fox Autodetailing</title>
+    <link>//localhost:29132/categories/post/</link>
+    <description>Recent content in Post on Fox Autodetailing</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <copyright>© 2024 Red Blowfish</copyright>
-    <lastBuildDate>Sun, 04 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/categories/post/index.xml" rel="self" type="application/rss+xml" />
+    <language>id</language>
+    <copyright>© 2024 Fox Autodetailing</copyright>
+    <lastBuildDate>Sun, 04 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:29132/categories/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Super cool article that I wrote</title>
-      <link>//localhost:1313/posts/post-lite-one/</link>
+      <title>A La Carte - Fox Autodetailing</title>
+      <link>//localhost:29132/posts/alacarte/</link>
       <pubDate>Sun, 04 Sep 2022 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/posts/post-lite-one/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean in eleifend justo, vestibulum congue lacus. Quisque est libero, lacinia sed placerat ac, interdum id urna.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/posts/post-lite-one/cover.png" />
+      <guid>//localhost:29132/posts/alacarte/</guid>
+      <description>Kumpulan layanan satuan non-paket dari Fox Autodetailing. Cocok untuk mobil dengan kebutuhan khusus dan spesifik.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:29132/posts/alacarte/cover.jpg" />
     </item>
     
     <item>
-      <title>Super cool article that I wrote</title>
-      <link>//localhost:1313/posts/post-lite-three/</link>
+      <title>Paket Basic - Fox Autodetailing</title>
+      <link>//localhost:29132/posts/basic/</link>
       <pubDate>Sun, 04 Sep 2022 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/posts/post-lite-three/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean in eleifend justo, vestibulum congue lacus. Quisque est libero, lacinia sed placerat ac, interdum id urna.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/posts/post-lite-three/cover.png" />
+      <guid>//localhost:29132/posts/basic/</guid>
+      <description>Paket dengan harga paling terjangkau dan proteksi dasar.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:29132/posts/basic/cover.jpg" />
     </item>
     
     <item>
-      <title>Super cool article that I wrote</title>
-      <link>//localhost:1313/posts/post-lite-two/</link>
+      <title>Paket Bravo - Fox Autodetailing</title>
+      <link>//localhost:29132/posts/bravo/</link>
       <pubDate>Sun, 04 Sep 2022 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/posts/post-lite-two/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean in eleifend justo, vestibulum congue lacus. Quisque est libero, lacinia sed placerat ac, interdum id urna.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/posts/post-lite-two/cover.png" />
+      <guid>//localhost:29132/posts/bravo/</guid>
+      <description>Servis poles dengan ketilitian paling tinggi untuk menghilangkan segala baret dan noda, serta diberikan coating terbaik dan terpremium di pasar.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:29132/posts/bravo/cover.jpg" />
     </item>
     
     <item>
-      <title>Super cool article that I wrote</title>
-      <link>//localhost:1313/posts/post-lite-four/</link>
+      <title>Paket Foxtrot - Fox Autodetailing</title>
+      <link>//localhost:29132/posts/foxtrot/</link>
       <pubDate>Sat, 04 Sep 2021 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/posts/post-lite-four/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean in eleifend justo, vestibulum congue lacus. Quisque est libero, lacinia sed placerat ac, interdum id urna.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/posts/post-lite-four/cover.png" />
+      <guid>//localhost:29132/posts/foxtrot/</guid>
+      <description>Paket paling laris dengan perlindungan standa dan harga yang masih terjangkau.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:29132/posts/foxtrot/cover.jpg" />
     </item>
     
   </channel>
