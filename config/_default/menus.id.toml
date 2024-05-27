@@ -11,32 +11,14 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
-  name = "Posts"
-  pageRef = "posts"
-  weight = 10
+name = "Paket"
+pageRef = "paket"
+weight = 10
 
 [[main]]
-  name = "Tags"
-  pageRef = "tags"
-  weight = 20
-
-[[main]]
-  identifier = "web"
-  pre = "link"
-  url = "https://nunocoracao.github.io/blowfish/"
-  weight = 40
-
-[[main]]
-  identifier = "github"
-  pre = "github"
-  url = "https://github.com/nunocoracao/blowfish"
-  weight = 50
-
-[[main]]
-  identifier = "twitter"
-  pre = "twitter"
-  url = "https://twitter.com/burufugu"
-  weight = 60
+name = "Artikel"
+pageRef = "artikel"
+weight = 20
 
 
 # -- Footer Menu --
@@ -44,7 +26,10 @@
 # the copyright notice. Configure as per the main menu above.
 
 
- [[footer]]
-   name = "Tags"
-   pageRef = "tags"
-   weight = 10
+[[footer]]
+name = "Instagram"
+url = "https://www.instagram.com/fox_autodetailing/"
+
+[[footer]]
+name = "Whatsapp"
+url = "https://wa.me/628113593118"
