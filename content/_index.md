@@ -13,21 +13,21 @@ Janji Fox bila Anda Memilih Salon Mobil Kami
 
 ----------
 
-{{< carousel images="intro1/*" interval="2500" >}}
+![Intro 1 Image - Fox Autodetailing](intro1.png)
 
 **Tak Ada Detail yang Terlewatkan**
 -----------------------------------
 
 Ketelatenan dalam merawat mobil sudah menjadi trademark Fox Autodetailing di kalangan salon-salon mobil di Surabaya. Kami mengikuti standar teknik pengerjaan kelas internasional untuk setiap servis yang kami berikan, baik itu memoles, detailing, atau pengaplikasian nano ceramic coating. 
 
-{{< carousel images="intro2/*" interval="2500" >}}
+![Intro 2 Image - Fox Autodetailing](intro2.png)
 
 **Dikerjakan Sesama Penggemar Mobil**
 -------------------------------------
 
 Kami selalu menganggap mobil Anda layaknya mobil sendiri. Bukan hanya karena kami memiliki standar operasional yang tinggi, namun setiap orang yang bekerja di salon mobil Fox memiliki hati otomatif sejati. Tak ada yang lebih membahagiakan kami dibanding melihat mobil hasil yang kami kerjakan dikendarai di jalanan dengan penampilan yang terbaik.
 
-{{< carousel images="intro3/*" interval="2500" >}}
+![Intro 3 Image - Fox Autodetailing](intro3.png)
 
 **Hanya Produk dan Servis Premium**
 -----------------------------------
