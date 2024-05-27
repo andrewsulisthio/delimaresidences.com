@@ -3,8 +3,6 @@ title: "Paket Foxtrot - Fox Autodetailing"
 summary: "Paket paling laris dengan perlindungan standa dan harga yang masih terjangkau."
 categories: ["Paket"]
 tags: ["paket","detailing","foxtrot"]
-#externalUrl: ""
-#showSummary: true
 date: 2024-04-01
 draft: false
 showDate : false

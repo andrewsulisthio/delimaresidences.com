@@ -3,8 +3,6 @@ title: "Paket Alpha - Fox Autodetailing"
 summary: "Cocok untuk mobil dengan baret dalam, dan mendapatkan perlindungan dari coating yang mengandung graphene, sehingga lebih tahan terhadap baret dan kerak air."
 categories: ["Paket"]
 tags: ["paket", "detailing", "alpha"]
-#externalUrl: ""
-#showSummary: true
 date: 2024-03-01
 draft: false
 showDate : false

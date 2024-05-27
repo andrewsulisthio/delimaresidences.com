@@ -3,8 +3,6 @@ title: "Garansi Coating di Fox Autodetailing - Fox Autodetailing"
 summary: "Terima Kasih telah mempercayai Fox Autodetailing untuk mengerjakan kendaraan Anda."
 categories: ["Artikel"]
 tags: ["garansi","coating", "detailing","surabaya"]
-#externalUrl: ""
-#showSummary: true
 date: 2024-02-01
 draft: false
 ---

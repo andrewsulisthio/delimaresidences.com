@@ -3,8 +3,6 @@ title: "Paket Bravo - Fox Autodetailing"
 summary: "Servis poles dengan ketilitian paling tinggi untuk menghilangkan segala baret dan noda, serta diberikan coating terbaik dan terpremium di pasar."
 categories: ["Paket"]
 tags: ["paket","detailing","bravo"]
-#externalUrl: ""
-#showSummary: true
 date: 2024-02-01
 draft: false
 showDate : false

@@ -3,8 +3,6 @@ title: "A La Carte - Fox Autodetailing"
 summary: "Kumpulan layanan satuan non-paket dari Fox Autodetailing. Cocok untuk mobil dengan kebutuhan khusus dan spesifik."
 categories: ["Paket"]
 tags: ["paket","detailing","alacarte"]
-#externalUrl: ""
-#showSummary: true
 date: 2024-01-01
 draft: false
 showDate : false

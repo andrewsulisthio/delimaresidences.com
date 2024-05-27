@@ -1,10 +1,8 @@
 ---
 title: "Paket Basic - Fox Autodetailing"
 summary: "Paket dengan harga paling terjangkau dan proteksi dasar."
-categories: ["Paket",]
+categories: ["Paket"]
 tags: ["paket","detailing","basic"]
-#externalUrl: ""
-#showSummary: true
 date: 2024-05-01
 draft: false
 showDate : false
