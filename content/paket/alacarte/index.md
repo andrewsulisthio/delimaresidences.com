@@ -34,6 +34,6 @@ Setailing mobil menyeluruh dengan waktu pengerjaan yang sangat cepat.
 
 * * *
 
-**[📱 Hubungi WhatsApp kami untuk mendapatkan layanan a la carte diatas!](https://foxautodetailing.co.id/redirect/https://wa.me/628113593118)**
+**[📱 Hubungi WhatsApp kami untuk mendapatkan layanan a la carte diatas!](https://wa.me/628113593118)**
 
-**[Cek paket kami lainnya.](https://foxautodetailing.co.id/)**
+**[Cek paket kami lainnya.]({{< relref "paket" >}})**
