@@ -1,6 +1,6 @@
 ---
-title: "Frequently Asked Questions (FAQ) - Fox Autodetailing"
-summary: "Tim Fox Autodetailing berusaha untuk menjawab pertanyaan-pertanyaan umum seputar dunia detailing, khususnya yang sesuai dengan medan di daerah Surabaya."
+title: "Salon, Workshop Detailing Premium Surabaya Foxautodetailing"
+summary: "Cuci dan poles mobil. Wax, Nano Ceramic Coating, Paint Protection Film (PPF). Interior dan engine detailing. Pemasangan kaca film dan sticker mobil."
 ---
 
 {{< button href="paket" target="_self" >}}
