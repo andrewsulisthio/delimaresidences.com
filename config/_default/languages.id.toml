@@ -16,4 +16,7 @@ headline = "✨ Cuci dan poles mobil <br> 🚗 Wax, Nano Ceramic Coating, Paint 
 name = "Fox Autodetailing"
 image = "img/medium_logo.png"
 bio = "Salon Mobil dan Workshop Detailing Premium di Surabaya"
-links = [{ instagram = "https://www.instagram.com/fox_autodetailing/" }]
+links = [
+    { instagram = "https://www.instagram.com/fox_autodetailing/" },
+    { whatsapp = "https://wa.me/628113593118" },
+]
