@@ -1,9 +1,10 @@
 colorScheme = "foxautodetailing"
-defaultAppearance = "light"
+defaultAppearance = "dark"
 autoSwitchAppearance = false
 enableSearch = true
 enableCodeCopy = false
 mainSections = ["paket"]
+highlightCurrentMenuArea = true
 
 [header]
 layout = "fixed"
