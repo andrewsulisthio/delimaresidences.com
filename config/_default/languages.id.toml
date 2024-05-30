@@ -1,0 +1,22 @@
+languageCode = "id"
+languageName = "Indonesian"
+weight = 1
+title = "Fox Autodetailing"
+
+[params]
+displayName = "ID"
+isoCode = "id"
+rtl = false
+description = "Cuci dan poles mobil. Wax, Nano Ceramic Coating, Paint Protection Film (PPF). Interior dan engine detailing. Pemasangan kaca film dan sticker mobil"
+dateFormat = "2 January 2006"
+logo = "img/small_logo.png"
+
+[author]
+headline = "✨ Cuci dan poles mobil <br> 🚗 Wax, Nano Ceramic Coating, Paint Protection Film (PPF) <br> 🔧 Interior dan engine detailing <br> ⬛ Pemasangan kaca film dan sticker mobil"
+name = "Fox Autodetailing"
+image = "img/medium_logo.png"
+bio = "Salon Mobil dan Workshop Detailing Premium di Surabaya"
+links = [
+    { instagram = "https://www.instagram.com/fox_autodetailing/" },
+    { whatsapp = "https://wa.me/628113593118" },
+]
