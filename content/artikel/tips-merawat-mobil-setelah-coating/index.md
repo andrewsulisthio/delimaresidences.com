@@ -1,5 +1,5 @@
 ---
-title: "Tips Merawat Mobil Setelah Coating Supaya Tetap Awet dan Kinclong - Fox Autodetailing"
+title: "Tips Merawat Mobil Setelah Coating Supaya Tetap Awet dan Kinclong - Put Name Here"
 summary: "Di blogpost kali ini, kami akan membahas cara-cara mudah yang kamu bisa terapkan untuk menjaga keawetan dan kondisi lapisan coating mobilmu."
 categories: ["Artikel"]
 tags: ["tips","merawat mobil", "coating", "surabaya"]
@@ -28,7 +28,7 @@ Setelah membersihkan mobil, Anda dapat menambahkan wax atau sealant di atas lapi
 *   Hindari mengelap body mobi dengan lap Kanebo dan spons karena dapat menimbulkan baret halus.
 *   Hindari mencuci mobil di bawah sinar matahari karena akan menimbulkan kerak air. 
 *   Belum pernah belajar proses pencucian mobil yang benar? Cek blogpost kami yang ini. 
-*   Kalau tak mau repot, Anda juga dapat melakukan proses pencucian di Fox Autodetailing. Silahkan hubungi kami di sini untuk menjadwalkan pencucian mobil Anda. 
+*   Kalau tak mau repot, Anda juga dapat melakukan proses pencucian di Put Name Here. Silahkan hubungi kami di sini untuk menjadwalkan pencucian mobil Anda. 
 
 ### **3\. Rajin membersihkan getah pohon, kotoran burung, dan kontaminan lainnya**
 
@@ -36,4 +36,4 @@ Penyebab utama kerusakan coating adalah kotoran dan kondisi cuaca yang buruk. Si
 
 ### **4\. Hindari menggunakan glass polish yang mengandung zat abrasif.**
 
-⭐ [Dapatkan layanan coating mobil bergaransi di Fox Autodetailing.]({{< relref "garansi-coating-di-foxautodetailing" >}})
+⭐ [Dapatkan layanan coating mobil bergaransi di Put Name Here.]({{< relref "garansi-coating-di-put-name-here" >}})

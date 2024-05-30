@@ -1,6 +1,6 @@
 ---
-title: "Garansi Coating di Fox Autodetailing - Fox Autodetailing"
-summary: "Terima Kasih telah mempercayai Fox Autodetailing untuk mengerjakan kendaraan Anda."
+title: "Garansi Coating di Put Name Here - Put Name Here"
+summary: "Terima Kasih telah mempercayai Put Name Here untuk mengerjakan kendaraan Anda."
 categories: ["Artikel"]
 tags: ["garansi","coating", "detailing","surabaya"]
 date: 2024-02-01
@@ -15,7 +15,7 @@ Fox selalu berkomitmen untuk memberikan layanan yang terbaik untuk pelanggan kam
 *   Ada penurunan tingkat kilap sebelum waktu garansi habis\*
 *   Ada panel yang baru dicat ulang karena hasil restorasi tabrakan\*\*
 
-\* Waktu garansi coating mobil tergantung paket yang dipilih. Mohon [menghubungi](https://wa.me/628113593118) admin Fox Autodetailing untuk mengetahui waktu garansi paket coating Anda. 
+\* Waktu garansi coating mobil tergantung paket yang dipilih. Mohon [menghubungi](https://wa.me/628123456789) admin Put Name Here untuk mengetahui waktu garansi paket coating Anda. 
 
 \*\* Dengan biaya tambahan
 
@@ -25,6 +25,6 @@ Fox selalu berkomitmen untuk memberikan layanan yang terbaik untuk pelanggan kam
 *   Timbulnya kerak air
 *   Timbulnya noda getah pohon/kotoran burung
 
-Apabila garansi Fox Autodetailing tidak berlaku pada mobil Anda, Anda tetap bisa menghubungi kami untuk menangani munculnya baret-baret halus, kerak air, noda getah, dan masalah lainnya. 
+Apabila garansi Put Name Here tidak berlaku pada mobil Anda, Anda tetap bisa menghubungi kami untuk menangani munculnya baret-baret halus, kerak air, noda getah, dan masalah lainnya. 
 
 Baca juga [panduan perawatan coating kami](<{{< relref "tips-merawat-mobil-setelah-coating" >}}>) yang bisa Anda  ikuti untuk menjaga keawatean coating Anda.

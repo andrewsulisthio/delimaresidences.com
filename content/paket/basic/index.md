@@ -1,5 +1,5 @@
 ---
-title: "Paket Basic - Fox Autodetailing"
+title: "Paket Basic - Put Name Here"
 summary: "Paket dengan harga paling terjangkau dan proteksi dasar."
 categories: ["Paket"]
 tags: ["paket","detailing","basic"]
@@ -8,7 +8,7 @@ draft: false
 showDate : false
 ---
 
-![Thumbnail Paket Basic - Fox Autodetailing](basic.png)
+![Thumbnail Paket Basic - Put Name Here](basic.png)
 
 ### Standar Operasional Prosedur (SOP) sebagai berikut:
 
@@ -43,8 +43,8 @@ Setiap mobil akan melalui tahap awal pencucian dan dekontaminasi seluruh panel m
 ### **Harga spesial yang ditawarkan:**
 > Rp. 3.000.000, _durasi pengerjaan maksimal adalah tiga (3) hari kerja._
 
-![Sekilas Tentang Paket Basic - Fox Autodetailing](basic2.jpg)
+![Sekilas Tentang Paket Basic - Put Name Here](basic2.jpg)
 
-📲 [**Hubungi WhatsApp spesialis kami untuk konsultasi gratis!**](https://wa.me/628113593118)
+📲 [**Hubungi WhatsApp spesialis kami untuk konsultasi gratis!**](https://wa.me/628123456789)
 
 **[Cek paket kami lainnya.]({{< relref "paket" >}})**

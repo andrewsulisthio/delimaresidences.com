@@ -1,4 +1,4 @@
-colorScheme = "foxautodetailing"
+colorScheme = "put-name-here"
 defaultAppearance = "dark"
 autoSwitchAppearance = false
 enableSearch = true
@@ -17,7 +17,7 @@ showScrollToTop = true
 
 [homepage]
 layout = "background"
-homepageImage = "img/DSCF9142-9.jpg"
+homepageImage = "img/background.jpg"
 showRecent = false
 showRecentItems = "6"
 showMoreLink = false

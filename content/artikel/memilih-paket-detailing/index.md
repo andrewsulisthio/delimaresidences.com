@@ -1,5 +1,5 @@
 ---
-title: "Memilih Paket Detailing di Fox Autodetailing - Fox Autodetailing"
+title: "Memilih Paket Detailing di Put Name Here - Put Name Here"
 summary: "Pilih paket yang terbaik untuk Anda, dan segera hubungi kami untuk berkonsultasi, Fox akan dengan senang hati melayani sesama penggemar otomotif."
 categories: ["Artikel"]
 tags: ["paket detailing","detailing","surabaya"]

@@ -1,3 +1,12 @@
+/* 
+    Manual Edit This
+    Note:
+        Regenerate this file using Fugu
+        https: //github.com/nunocoracao/fugu
+        node index.js generate neutral_hex primary_hex secondary_hex
+        For this file, the following command was used
+            node index.js 000000 fe6001 fe6001
+*/
 :root {
     --color-neutral: 255, 255, 255;
     --color-neutral-50: 255, 255, 255;

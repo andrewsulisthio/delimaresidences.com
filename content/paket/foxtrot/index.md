@@ -1,5 +1,5 @@
 ---
-title: "Paket Foxtrot - Fox Autodetailing"
+title: "Paket Foxtrot - Put Name Here"
 summary: "Paket paling laris dengan perlindungan standa dan harga yang masih terjangkau."
 categories: ["Paket"]
 tags: ["paket","detailing","foxtrot"]
@@ -8,7 +8,7 @@ draft: false
 showDate : false
 ---
 
-![Thumbnail Paket Foxtrot - Fox Autodetailing](foxtrot.png)
+![Thumbnail Paket Foxtrot - Put Name Here](foxtrot.png)
 
 ### Standar Operasional Prosedur (SOP) sebagai berikut:
 
@@ -42,11 +42,11 @@ Setiap mobil akan melalui tahap awal pencucian dan dekontaminasi seluruh panel m
 1.  **Pengaplikasian semir ban dan plastic trim dressing.**
 2.  **Quality Control:** Pengecekan terakhir dari semua proses yang telah dilakukan sebelum mobil diberikan kepada pelanggan.
 
-![Sekilas Tentang Paket Foxtrot - Fox Autodetailing](foxtrot2.jpg)
+![Sekilas Tentang Paket Foxtrot - Put Name Here](foxtrot2.jpg)
 
 ### **Harga spesial yang ditawarkan:**
 > Rp. 7.500.000, _durasi pengerjaan maksimal adalah enam (6) hari kerja._
 
-📲 [**Hubungi WhatsApp spesialis kami untuk konsultasi gratis!**](https://wa.me/628113593118)
+📲 [**Hubungi WhatsApp spesialis kami untuk konsultasi gratis!**](https://wa.me/628123456789)
 
 **[Cek paket kami lainnya.]({{< relref "paket" >}})**

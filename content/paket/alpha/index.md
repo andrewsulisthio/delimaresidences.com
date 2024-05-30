@@ -1,5 +1,5 @@
 ---
-title: "Paket Alpha - Fox Autodetailing"
+title: "Paket Alpha - Put Name Here"
 summary: "Cocok untuk mobil dengan baret dalam, dan mendapatkan perlindungan dari coating yang mengandung graphene, sehingga lebih tahan terhadap baret dan kerak air."
 categories: ["Paket"]
 tags: ["paket", "detailing", "alpha"]
@@ -8,7 +8,7 @@ draft: false
 showDate : false
 ---
 
-![Thumbnail Paket Alpha - Fox Autodetailing](alpha.png)
+![Thumbnail Paket Alpha - Put Name Here](alpha.png)
 
 ### Standar Operasional Prosedur (SOP) sebagai berikut:
 
@@ -45,8 +45,8 @@ Setiap mobil akan melalui tahap awal pencucian dan dekontaminasi seluruh panel m
 ### **Harga spesial yang ditawarkan:**
 > Rp. 5.500.000, _durasi pengerjaan maksimal adalah lima (5) hari kerja._
 
-![Sekilas Tentang Paket Alpha - Fox Autodetailing](alpha2.jpg)
+![Sekilas Tentang Paket Alpha - Put Name Here](alpha2.jpg)
 
-📲 [**Hubungi WhatsApp spesialis kami untuk konsultasi gratis!**](https://wa.me/628113593118)
+📲 [**Hubungi WhatsApp spesialis kami untuk konsultasi gratis!**](https://wa.me/628123456789)
 
 **[Cek paket kami lainnya.]({{< relref "paket" >}})**

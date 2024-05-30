@@ -3,7 +3,11 @@
 # https://nunocoracao.github.io/blowfish/docs/getting-started/
 
 theme = "blowfish"
+
+# Manual Edit This
+# Note: Replace with main domain then, uncomment the line
 # baseURL = "https://your_domain.com/"
+
 defaultContentLanguage = "id"
 
 enableRobotsTXT = true
@@ -13,7 +17,10 @@ summaryLength = 30
 buildDrafts = false
 buildFuture = false
 
-# googleAnalytics = "G-XXXXXXXXX"
+# Manual Edit This
+# Note: Change with appropriate Google Analytics' GA4
+# then, uncomment the line
+# googleAnalytics = "GOOGLE_GA4_HERE"
 
 [taxonomies]
 tag = "tags"

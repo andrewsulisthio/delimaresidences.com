@@ -1,16 +1,16 @@
 ---
-title: "Frequently Asked Questions (FAQ) - Fox Autodetailing"
-summary: "Tim Fox Autodetailing berusaha untuk menjawab pertanyaan-pertanyaan umum seputar dunia detailing, khususnya yang sesuai dengan medan di daerah Surabaya."
+title: "Frequently Asked Questions (FAQ) - Put Name Here"
+summary: "Tim Put Name Here berusaha untuk menjawab pertanyaan-pertanyaan umum seputar dunia detailing, khususnya yang sesuai dengan medan di daerah Surabaya."
 categories: ["Artikel"]
 tags: ["faq","detailing","surabaya"]
 date: 2024-01-01
 draft: false
 ---
 
-# Fox Autodetailing
-Tim Fox Autodetailing berusaha untuk menjawab pertanyaan-pertanyaan umum seputar dunia detailing, khususnya yang sesuai dengan medan di daerah Surabaya.
+# Put Name Here
+Tim Put Name Here berusaha untuk menjawab pertanyaan-pertanyaan umum seputar dunia detailing, khususnya yang sesuai dengan medan di daerah Surabaya.
 
-Mungkin belum terlalu banyak orang yang mengerti apa fungsi, tujuan serta manfaat coating mobil. Maka dari itu,i tim Fox Autodetailing akan berusaha menjawab sebagian besar pertanyaan yang sering masuk ke Whatsapp kami. Jika ada pertanyaan lain, jangan sungkan menghubungi Whatsapp kami melalui link [ini](<{{< relref "garansi-coating-di-foxautodetailing" >}}>).
+Mungkin belum terlalu banyak orang yang mengerti apa fungsi, tujuan serta manfaat coating mobil. Maka dari itu,i tim Put Name Here akan berusaha menjawab sebagian besar pertanyaan yang sering masuk ke Whatsapp kami. Jika ada pertanyaan lain, jangan sungkan menghubungi Whatsapp kami melalui link [ini](<{{< relref "garansi-coating-di-put-name-here" >}}>).
 
 ### **Q: Apa itu coating mobil?**
 
@@ -50,4 +50,4 @@ A: Waktu terbaik untuk coating adalah setelah mobil keluar dari showroom. Dengan
 
 A: Setelah ada pengerjaan repaint atau pengecatan ulang. Ada kemungkinan clear coat (lapisan pernis) mobil yang baru saja direpaint belum benar-benar kering, karena umumnya lapisan pernis membutuhkan satu (1) minggu sampai satu (1)  bulan untuk mengering. Bila mobil yang lapisan pernisnya belum kering melalui pengerjaan coating, maka coating tidak dapat mengering secara sempurna. 
 
-Sekian informasi-informasi dasar yang perlu Anda ketahui tentang dunia detailing. Semoga apa yang kami sampaikan dapat menjawab sebagian besar pertanyaan Anda. Segera hubungi kami melalui WhatsApp apabila ada pertanyaan lain atau ingin mengkonsultasikan mobil [Anda](<{{< relref "garansi-coating-di-foxautodetailing" >}}>).
+Sekian informasi-informasi dasar yang perlu Anda ketahui tentang dunia detailing. Semoga apa yang kami sampaikan dapat menjawab sebagian besar pertanyaan Anda. Segera hubungi kami melalui WhatsApp apabila ada pertanyaan lain atau ingin mengkonsultasikan mobil [Anda](<{{< relref "garansi-coating-di-put-name-here" >}}>).

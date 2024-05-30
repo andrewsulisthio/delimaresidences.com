@@ -1,5 +1,5 @@
 ---
-title: "Paket Bravo - Fox Autodetailing"
+title: "Paket Bravo - Put Name Here"
 summary: "Servis poles dengan ketilitian paling tinggi untuk menghilangkan segala baret dan noda, serta diberikan coating terbaik dan terpremium di pasar."
 categories: ["Paket"]
 tags: ["paket","detailing","bravo"]
@@ -8,7 +8,7 @@ draft: false
 showDate : false
 ---
 
-![Thumbnail Paket Bravo - Fox Autodetailing](bravo.png)
+![Thumbnail Paket Bravo - Put Name Here](bravo.png)
 
 ### Standar Operasional Prosedur (SOP) sebagai berikut:
 
@@ -42,11 +42,11 @@ Setiap mobil akan melalui tahap awal pencucian dan dekontaminasi seluruh panel m
 1.  **Pengaplikasian semir ban dan plastic trim dressing.**
 2.  **Quality Control:** Pengecekan terakhir dari semua proses yang telah dilakukan sebelum mobil diberikan kepada pelanggan.
 
-![Sekilas Tentang Paket Bravo - Fox Autodetailing](bravo2.jpg)
+![Sekilas Tentang Paket Bravo - Put Name Here](bravo2.jpg)
 
 ### **Harga spesial yang ditawarkan:**
 > Rp. 7.500.000, _durasi pengerjaan maksimal adalah enam (6) hari kerja._
 
-📲 [**Hubungi WhatsApp spesialis kami untuk konsultasi gratis!**](https://wa.me/628113593118)
+📲 [**Hubungi WhatsApp spesialis kami untuk konsultasi gratis!**](https://wa.me/628123456789)
 
 **[Cek paket kami lainnya.]({{< relref "paket" >}})**
