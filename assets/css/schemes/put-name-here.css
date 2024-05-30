@@ -1,0 +1,42 @@
+/* 
+    Manual Edit This
+    Note:
+        Regenerate this file using Fugu
+        https: //github.com/nunocoracao/fugu
+        node index.js generate neutral_hex primary_hex secondary_hex
+        For this file, the following command was used
+            node index.js 000000 fe6001 fe6001
+*/
+:root {
+    --color-neutral: 255, 255, 255;
+    --color-neutral-50: 255, 255, 255;
+    --color-neutral-100: 238, 238, 238;
+    --color-neutral-200: 200, 200, 200;
+    --color-neutral-300: 162, 162, 162;
+    --color-neutral-400: 123, 123, 123;
+    --color-neutral-500: 85, 85, 85;
+    --color-neutral-600: 65, 65, 65;
+    --color-neutral-700: 44, 44, 44;
+    --color-neutral-800: 24, 24, 24;
+    --color-neutral-900: 3, 3, 3;
+    --color-primary-50: 255, 255, 255;
+    --color-primary-100: 255, 255, 255;
+    --color-primary-200: 255, 239, 230;
+    --color-primary-300: 255, 191, 153;
+    --color-primary-400: 254, 144, 77;
+    --color-primary-500: 254, 96, 1;
+    --color-primary-600: 213, 81, 1;
+    --color-primary-700: 173, 65, 1;
+    --color-primary-800: 132, 50, 1;
+    --color-primary-900: 91, 35, 0;
+    --color-secondary-50: 255, 255, 255;
+    --color-secondary-100: 255, 255, 255;
+    --color-secondary-200: 255, 239, 230;
+    --color-secondary-300: 255, 191, 153;
+    --color-secondary-400: 254, 144, 77;
+    --color-secondary-500: 254, 96, 1;
+    --color-secondary-600: 213, 81, 1;
+    --color-secondary-700: 173, 65, 1;
+    --color-secondary-800: 132, 50, 1;
+    --color-secondary-900: 91, 35, 0;
+}

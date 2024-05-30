@@ -1,6 +1,26 @@
-# Blowfish - Artist Template
-This is a template for the Blowfish Hugo Theme. Feel free to use this repo as a quick way to get started with Blowfish. Please visit [Blowfish's main website](https://github.com/nunocoracao/blowfish) to read the complete documentation.
+# Note to self
 
-The template was built using the [Git option](https://nunocoracao.github.io/blowfish/docs/installation/#install-using-git) from Blowfish's installations instructions.
+Use the global search / replace with match case:
+*don't forget to also use the global file search function and edit accordingly*
+*put `public/*, themes/*` for files to exclude*
 
-![blowfish logo](https://github.com/nunocoracao/blowfish_artist/blob/main/logo.png?raw=true)
+## put-name-here
+Global-replace with entity name, all lowercase and no spaces
+
+## Put Name Here
+Global-replace with entity name, in sentence case
+
+## Manual Edit This
+Manual edit the code, following the note
+Delete after done
+
+## https://instagram.com/change_instagram_id/
+Change with instagram_id
+
+## Replace all image under assets/
+
+## Generate favicon using favicon.io
+Replace favicon in static/
+
+## 628123456789
+Replace with the right WhatsApp number
