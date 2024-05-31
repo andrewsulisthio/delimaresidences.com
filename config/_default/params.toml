@@ -1,9 +1,9 @@
 colorScheme = "forest"
 defaultAppearance = "dark"
 autoSwitchAppearance = false
-enableSearch = true
+enableSearch = false
 enableCodeCopy = false
-mainSections = ["paket"]
+# mainSections = ["paket"]
 highlightCurrentMenuArea = true
 
 [header]
@@ -11,7 +11,7 @@ layout = "fixed"
 
 [footer]
 showCopyright = true
-showThemeAttribution = false
+showThemeAttribution = true
 showAppearanceSwitcher = false
 showScrollToTop = true
 
