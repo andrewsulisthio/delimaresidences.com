@@ -6,7 +6,7 @@ theme = "blowfish"
 
 # Manual Edit This
 # Note: Replace with main domain then, uncomment the line
-# baseURL = "https://your_domain.com/"
+baseURL = "https://delimaresidences.com/"
 
 defaultContentLanguage = "id"
 
