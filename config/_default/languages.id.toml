@@ -4,7 +4,7 @@ languageCode = "id"
 languageName = "Indonesian"
 
 weight = 1
-title = "Put Name Here"
+title = "Delima Residences"
 
 [params]
 
@@ -17,7 +17,7 @@ rtl = false
 
 # Manual Edit This
 # Note: Set the right description
-description = "Cuci dan poles mobil. Wax, Nano Ceramic Coating, Paint Protection Film (PPF). Interior dan engine detailing. Pemasangan kaca film dan sticker mobil"
+description = "Rukun Warga Delima, Perumahan Pondok Tjandra Indah, Desa Tambakrejo, Kecamatan Waru, Kabupaten Sidoarjo, Provinsi Jawa Timur"
 
 dateFormat = "2 January 2006"
 logo = "img/small_logo.png"
@@ -25,16 +25,16 @@ logo = "img/small_logo.png"
 [author]
 # Manual Edit This
 # Note: Set the right headline
-headline = "✨ Cuci dan poles mobil <br> 🚗 Wax, Nano Ceramic Coating, Paint Protection Film (PPF) <br> 🔧 Interior dan engine detailing <br> ⬛ Pemasangan kaca film dan sticker mobil"
+headline = "Rukun Warga Delima, Perumahan Pondok Tjandra Indah, Desa Tambakrejo, Kecamatan Waru, Kabupaten Sidoarjo, Provinsi Jawa Timur"
 
-name = "Put Name Here"
+name = "Delima Residences"
 image = "img/medium_logo.png"
 
 # Manual Edit This
 # Note: Set the right bio
-bio = "Salon Mobil dan Workshop Detailing Premium di Surabaya"
+bio = "Rukun Warga Delima, Perumahan Pondok Tjandra Indah, Desa Tambakrejo, Kecamatan Waru, Kabupaten Sidoarjo, Provinsi Jawa Timur"
 
-links = [
-    { instagram = "https://instagram.com/change_instagram_id/" },
-    { whatsapp = "https://wa.me/628123456789" },
-]
+# links = [
+#     { instagram = "https://instagram.com" },
+#     { whatsapp = "https://wa.me/" },
+# ]
