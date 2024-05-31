@@ -20,7 +20,7 @@ buildFuture = false
 # Manual Edit This
 # Note: Change with appropriate Google Analytics' GA4
 # then, uncomment the line
-# googleAnalytics = "GOOGLE_GA4_HERE"
+googleAnalytics = "G-HCZBZ29N7S"
 
 [taxonomies]
 tag = "tags"
