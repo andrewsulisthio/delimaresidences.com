@@ -16,6 +16,11 @@ pageRef = "/"
 weight = 10
 
 [[main]]
+name = "Pengumuman"
+pageRef = "pengumuman"
+weight = 10
+
+[[main]]
 name = "Merdeka in Mozaic"
 pageRef = "merdeka-in-mozaic"
 pre = "star"
