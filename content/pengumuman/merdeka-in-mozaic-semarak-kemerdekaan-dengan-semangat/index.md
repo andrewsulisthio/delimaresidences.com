@@ -1,6 +1,6 @@
 +++
 title = 'Merdeka in Mozaic: Semarak Kemerdekaan dengan Semangat Kebersamaan'
-description = "Merdeka in Mozaic memeriahkan Hari Kemerdekaan Indonesia dengan rangkaian acara selama 4 hari (4 - 17 Agustus) di Delima Residences. Nikmati keseruan permainan tradisional di Merdeka Games, santap malam bertema pendekar di Bazaar Pendekar, dan jalan santai bersama hewan peliharaan di Paws of Freedom."
+description = "Merdeka in Mozaic memeriahkan Hari Kemerdekaan Indonesia dengan rangkaian acara selama 4 hari (14 - 17 Agustus) di Delima Residences. Nikmati keseruan permainan tradisional di Merdeka Games, santap malam bertema pendekar di Bazaar Pendekar, dan jalan santai bersama hewan peliharaan di Paws of Freedom."
 date = 2024-06-02
 herostyle = "thumbAndBackground"
 tags = ["Merdeka in Mozaic"]
