@@ -1,40 +1,21 @@
-# Manual Edit This
-# Note: Set the correct languangeCode and languageName
-languageCode = "id"
+languageCode = "id-ID"
 languageName = "Indonesian"
-
-weight = 1
-title = "Delima Residences"
+title        = "Delima Residences"
+weight       = 1
 
 [params]
-
-# Manual Edit This
-# Note: Set the correct displayName and isoCode
-displayName = "ID"
-isoCode = "id"
-
-rtl = false
-
-# Manual Edit This
-# Note: Set the right description
-description = "Rukun Warga Delima, Perumahan Pondok Tjandra Indah, Desa Tambakrejo, Kecamatan Waru, Kabupaten Sidoarjo, Provinsi Jawa Timur"
-
-dateFormat = "2 January 2006"
-logo = "img/small_logo.png"
+copyright     = ""
+dateFormat    = "2 January 2006"
+description   = "Rukun Warga Delima, Perumahan Pondok Tjandra Indah, Desa Tambakrejo, Kecamatan Waru, Kabupaten Sidoarjo, Provinsi Jawa Timur"
+displayName   = "ID"
+isoCode       = "id"
+logo          = "img/small_logo.png"
+rtl           = false
+secondaryLogo = ""
 
 [author]
-# Manual Edit This
-# Note: Set the right headline
+bio      = "Rukun Warga Delima, Perumahan Pondok Tjandra Indah, Desa Tambakrejo, Kecamatan Waru, Kabupaten Sidoarjo, Provinsi Jawa Timur"
 headline = "Rukun Warga Delima, Perumahan Pondok Tjandra Indah, Desa Tambakrejo, Kecamatan Waru, Kabupaten Sidoarjo, Provinsi Jawa Timur"
-
-name = "Delima Residences"
-image = "img/medium_logo.png"
-
-# Manual Edit This
-# Note: Set the right bio
-bio = "Rukun Warga Delima, Perumahan Pondok Tjandra Indah, Desa Tambakrejo, Kecamatan Waru, Kabupaten Sidoarjo, Provinsi Jawa Timur"
-
-# links = [
-#     { instagram = "https://instagram.com" },
-#     { whatsapp = "https://wa.me/" },
-# ]
+image    = "img/medium_logo.png"
+links    = [  ]
+name     = "Delima Residences"
