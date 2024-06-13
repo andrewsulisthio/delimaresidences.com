@@ -1,6 +1,6 @@
 backend:
     name: github
-    repo: andrewsulisthio/andrews-hugo-boilerplate
+    repo: andrewsulisthio/delimaresidences.com
     branch: content-update
     base_url: https://delimaresidences.com
 
