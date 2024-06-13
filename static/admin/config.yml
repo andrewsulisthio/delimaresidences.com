@@ -1,0 +1,92 @@
+backend:
+    name: github
+    repo: andrewsulisthio/andrews-hugo-boilerplate
+    branch: content-update
+    base_url: https://delimaresidences.com
+
+media_folder: ""
+public_folder: ""
+
+collections:
+    - name: "pengumuman"
+      label: "Pengumuman"
+      folder: "content/pengumuman"
+      path: "{{slug}}/index"
+      create: true
+      fields:
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Publish Date", name: "date", widget: "datetime" }
+          - {
+                label: "featured.jpg or featured.png",
+                name: "featuredImage",
+                widget: "image",
+                default: "featured.jpg",
+            }
+          - { label: "Body", name: "body", widget: "markdown" }
+    - name: "merdeka-in-mozaic"
+      label: "Merdeka in Mozaic"
+      files:
+          - label: "Bazaar Pendekar"
+            name: "bazaar-pendekar"
+            file: "content/_index.md"
+            fields:
+                - { label: "Title", name: "title", widget: "string" }
+                - { label: "Publish Date", name: "date", widget: "datetime" }
+                - {
+                      label: "featured.jpg or featured.png",
+                      name: "featuredImage",
+                      widget: "image",
+                      default: "featured.jpg",
+                  }
+                - { label: "Body", name: "body", widget: "markdown" }
+          - label: "Merdeka Games"
+            name: "merdeka-games"
+            file: "content/_index.md"
+            fields:
+                - { label: "Title", name: "title", widget: "string" }
+                - { label: "Publish Date", name: "date", widget: "datetime" }
+                - {
+                      label: "featured.jpg or featured.png",
+                      name: "featuredImage",
+                      widget: "image",
+                      default: "featured.jpg",
+                  }
+                - { label: "Body", name: "body", widget: "markdown" }
+          - label: "Paws of Freedom"
+            name: "paws-of-freedom"
+            file: "content/_index.md"
+            fields:
+                - { label: "Title", name: "title", widget: "string" }
+                - { label: "Publish Date", name: "date", widget: "datetime" }
+                - {
+                      label: "featured.jpg or featured.png",
+                      name: "featuredImage",
+                      widget: "image",
+                      default: "featured.jpg",
+                  }
+                - { label: "Body", name: "body", widget: "markdown" }
+          - label: "Mozaic Slow Run"
+            name: "mozaic-slow-run"
+            file: "content/_index.md"
+            fields:
+                - { label: "Title", name: "title", widget: "string" }
+                - { label: "Publish Date", name: "date", widget: "datetime" }
+                - {
+                      label: "featured.jpg or featured.png",
+                      name: "featuredImage",
+                      widget: "image",
+                      default: "featured.jpg",
+                  }
+                - { label: "Body", name: "body", widget: "markdown" }
+      path: "{{slug}}/index"
+      create: true
+      fields:
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Publish Date", name: "date", widget: "datetime" }
+          - {
+                label: "featured.jpg or featured.png",
+                name: "featuredImage",
+                widget: "image",
+                default: "featured.jpg",
+            }
+          - { label: "Body", name: "body", widget: "markdown" }
