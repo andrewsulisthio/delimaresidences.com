@@ -4,6 +4,7 @@ description = "Merdeka in Mozaic memeriahkan Hari Kemerdekaan Indonesia dengan r
 date = 2024-06-02
 herostyle = "thumbAndBackground"
 tags = ["Merdeka in Mozaic"]
+featuredImage = "featured.png"
 +++
 **Sidoarjo, 2 Juni 2024** – Dalam rangka memperingati Dirgahayu Kemerdekaan Republik Indonesia ke-79, warga Delima Residences, Sidoarjo (Pondok Tjandra Indah) dengan bangga menghadirkan **Merdeka in Mozaic**, sebuah rangkaian acara menarik dan menghibur yang akan berlangsung selama 4 hari, mulai dari **14 hingga 17 Agustus 2024**.
 

@@ -8,4 +8,5 @@ draft = false
 showEdit = false
 showHero = true
 herostyle = "thumbAndBackground"
+featuredImage = "featured.png"
 +++

@@ -3,6 +3,7 @@ title = 'Merdeka in Mozaic'
 description = "Rangkaian Acara Memperingati Dirgahayu Republik Indonesia yang Ke 79"
 draft = false
 herostyle = "thumbAndBackground"
+featuredImage = "featured.png"
 +++
 
 Mari bersama-sama merayakan Dirgahayu Kemerdekaan Republik Indonesia yang ke-79 dengan penuh semangat dan kebersamaan di Merdeka in Mozaic, sebuah acara yang diselenggarakan oleh panitia sukarela dari warga Delima Residences, Sidoarjo (Pondok Tjandra Indah).
