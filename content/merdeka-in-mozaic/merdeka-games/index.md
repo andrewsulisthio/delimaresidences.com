@@ -13,66 +13,63 @@ featuredImage = "featured.png"
 
 ---
 
-Meriahkan semarak kemerdekaan di **Merdeka in Mozaic**! 🇮🇩🎉  Salah satunya dengan ikutan **Merdeka Games**, penuh keseruan dan tantangan seru! 🤩
+Hai warga Delima Residences! 👋 Ada yang spesial nih dalam rangka memeriahkan **Merdeka in Mozaic**! 🎉 Siap-siap untuk **Merdeka Games**, penuh keceriaan dan games seru! 🥳
 
-Catat tanggal mainnya:
+## 🎉 Apa Itu Merdeka Games? 🤸‍♀️
 
-🗓️ **Minggu, 11 Agustus 2024**
-⏰ **15.00 - Selesai**
-📍 **Taman Bermain** (Delima Park, Delima Residences)
+Merdeka Games adalah serangkaian lomba 17 Agustusan yang pastinya bikin anak-anak semangat dan gembira! Lomba-lombanya udah disesuain sama usia, jadi semua bisa ikutan! 😉
 
-## 🧒 Lomba Seru untuk Si Kecil (1-3 Tahun & 4-6 Tahun)
+## 🗓️ Kapan dan di Mana? 🗺️
 
-Ada dua kategori usia dengan lomba yang berbeda:
+Catat tanggalnya ya!
 
-### 🐥 Usia 1-3 Tahun
+- 📅 **Minggu, 11 Agustus 2024**
+- ⏰ **15.00 - Selesai**
+- 📍 **Taman Bermain Delima**
 
-Siap-siap dengan lomba:
+## 👨‍👩‍👧‍👦  Kategori Lomba 🏆
 
-1. **Pindah Bendera** 🚩
-2. **Color Picking Ball** 🔴🔵🟡
+Ada dua kategori lomba yang bisa diikuti:
 
-### 🤸 Usia 4-6 Tahun
+### 🧒  Kelas Kecil (1-3 tahun & 4-6 tahun)
 
-Lomba yang lebih menantang:
+**Perorangan (1-3 tahun):**
 
-1. **Balap Kelereng** ⚪
-2. **Capit Pom-pom** 🌸
+1.  Pindah Bendera 🚩
+2.  Color Picking Ball 🔴🔵🟡
 
-## 💪 Lomba Seru untuk Si Kakak (7-12 Tahun)
+**Perorangan (4-6 tahun):**
 
-Untuk si kakak yang lebih besar, ada lomba individual dan kelompok:
+1.  Balap Kelereng 🔮
+2.  Capit Pom-pom 🌸
 
-### 🏃‍♂️ Perorangan
+### 🧑  Kelas Besar (7-12 tahun)
 
-Uji ketangkasanmu di:
+**Perorangan:**
 
-1. **Sumpit Kacang Merah** 🥢
-2. **Goyang Kardus** 📦
+1.  Sumpit Kacang Merah 🥢
+2.  Goyang Kardus 💃🕺
 
-### 🤝 Kelompok
+**Group:**
 
-Kerjasama tim diuji di:
+1.  Mengoper Air 💧
+2.  Estafet Tank Kardus 📦
 
-1. **Mengoper Air** 🪣
-2. **Estafet Tank Kardus** 📦
+## 👨‍👩‍👧‍👦 Untuk Semua Usia! 👨‍👩‍👧‍👦
 
-## 🚴 Lomba untuk Semua Usia!
+Ada juga lomba seru yang bisa diikuti semua umur, yaitu **Lomba Sepeda Lambat**! 🚲  Siapa yang paling jago jaga keseimbangan? Buktikan di sini! 😉
 
-Khusus untuk lomba ini, semua boleh ikutan!
+## 🎁 Hadiah Menarik 🎁
 
-**Lomba Sepeda Lambat** 🚲
+Tentu aja ada hadiah menarik untuk para pemenang! 🎁🎁🎁 Semangat ya! 💪
 
-Siapa yang paling jago seimbang dan jalan pelan-pelan? Buktikan di sini! 😎
+## ✍️ Cara Daftar 📝
 
-## 🎉 Jangan Lewatkan Kemeriahan Lainnya!
+Yuk, daftarkan putra-putri dan anggota keluarga kamu sekarang juga! Caranya gampang banget:
 
-Selain **Merdeka Games**, masih banyak keseruan lainnya di **Merdeka in Mozaic**, seperti **Bazaar Pendekar** dan **Paws of Freedom**! 🤩
+1. (Warga Opal) Hubungi Bu Vero di WhatsApp [082331646568](https://wa.me/6282331646568) 📞
+2. Sebutkan: Nama - Usia - Jenis Lomba 
 
-Cek informasi selengkapnya di [link ke postingan Merdeka in Mozaic]. Jangan lupa ajak keluarga dan teman-teman untuk ikut memeriahkan! 🥳
+*Untuk lomba kategori grup akan dibentuk saat lomba.*
 
-## ✍️ Daftar Sekarang!
-
-Segera daftarkan diri dan si kecil melalui [link untuk registrasi] karena kuota terbatas! 
-
-Sampai jumpa di **Merdeka Games**! 👋
+Tunggu apa lagi? Jangan sampai ketinggalan keseruan Merdeka Games di Delima Residences! 🥳
