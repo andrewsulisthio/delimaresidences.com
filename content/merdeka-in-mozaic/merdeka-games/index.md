@@ -68,7 +68,9 @@ Tentu aja ada hadiah menarik untuk para pemenang! 🎁🎁🎁 Semangat ya! 💪
 Yuk, daftarkan putra-putri dan anggota keluarga kamu sekarang juga! Caranya gampang banget:
 
 1. (Warga Opal) Hubungi Bu Vero di WhatsApp [082331646568](https://wa.me/6282331646568) 📞
-2. Sebutkan: Nama - Usia - Jenis Lomba 
+2. (Warga Emerald) Hubungi Bu Reynetta di WhatsApp [081703091331](https://wa.me/6281703091331) 📞
+3. (Warga Sapphire) Hubungi Pak Ricky di WhatsApp [087852900938](https://wa.me/6287852900938) 📞
+4. Sebutkan: Nama - Usia - Jenis Lomba 
 
 *Untuk lomba kategori grup akan dibentuk saat lomba.*
 
