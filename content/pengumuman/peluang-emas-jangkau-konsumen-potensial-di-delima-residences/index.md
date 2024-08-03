@@ -1,7 +1,7 @@
 +++
 title = 'Peluang Emas Jangkau Konsumen Potensial di Delima Residences!'
-description = "Sambut semarak kemerdekaan Indonesia yang ke-79 bersama Delima Residences dalam acara “Merdeka in Mozaic”, sebuah perayaan meriah yang menyatukan seluruh penghuni Delima Residences (Emerald, Sapphire, Topaz, Opal, dan Ruby) dan masyarakat sekitar!"
-date = 2024-06-02
+description = "Bergabunglah di kemeriahan Merdeka in Mozaic di Delima Residences Sidoarjo! Ramaikan lapak di Bazaar Pendekar atau tingkatkan brand awareness dengan menjadi sponsor. Kesempatan emas untuk menjangkau ribuan pelanggan potensial!"
+date = 2024-08-03
 herostyle = "thumbAndBackground"
 tags = ["Merdeka in Mozaic"]
 featuredImage = "featured.png"
@@ -18,15 +18,15 @@ Acara ini adalah kesempatan emas untuk memperkenalkan produk dan brand Anda kepa
 
 Salah satu acara unggulan kami adalah **Bazaar Pendekar**, yang akan diselenggarakan pada:
 
-🗓️ **Tanggal:** 16 Agustus 2024
-⏰ **Waktu:** Sore hari
-📍 **Lokasi:** Sekitar Delima Park
+- 🗓️ **Tanggal:** 16 Agustus 2024
+- ⏰ **Waktu:** Sore hari
+- 📍 **Lokasi:** Sekitar Delima Park
 
 Bayangkan kemeriahannya! Lebih dari 1000 pengunjung akan hadir untuk menikmati:
 
-🎤 Panggung utama dengan MC seru dan Live Music 🎶
-🎮 Berbagai games dan atraksi menarik 🎉
-🛍️ Dan tentu saja, berbelanja di Bazaar Pendekar! 🛍️
+- 🎤 Panggung utama dengan MC seru dan Live Music 🎶
+- 🎮 Berbagai games dan atraksi menarik 🎉
+- 🛍️ Dan tentu saja, berbelanja di Bazaar Pendekar! 🛍️
 
 ## 💰 Raih Keuntungan Maksimal dengan Menjadi Tenant di Bazaar Pendekar! 💰
 
@@ -34,15 +34,15 @@ Kami membuka kesempatan bagi **12 tenant terpilih** untuk mengisi lapak berukura
 
 **Harga sewa lapak:**
 
-💰 **Warga Delima:** Rp 100.000,-
-💰 **Umum:** Rp 200.000,-
+- 💰 **Warga Delima:** Rp 100.000,-
+- 💰 **Umum:** Rp 200.000,-
 
 **Timeline Pendaftaran & Seleksi Tenant:**
 
-📝 **4 Agustus 2024:** Pendaftaran dibuka melalui [Formulir Kurasi Tenant](https://)
-⛔ **9 Agustus 2024:** Batas akhir pengisian Formulir Kurasi Tenant
-✅ **9 Agustus 2024:** Seleksi tenant oleh panitia
-📣 **10 Agustus 2024:** Pengumuman tenant terpilih
+- 📝 **3 Agustus 2024:** Pendaftaran dibuka melalui [Formulir Kurasi Tenant](https://forms.gle/7HXh5XqtrNchGwxaA)
+- ⛔ **9 Agustus 2024:** Batas akhir pengisian Formulir Kurasi Tenant
+- ✅ **9 Agustus 2024:** Seleksi tenant oleh panitia
+- 📣 **10 Agustus 2024:** Pengumuman tenant terpilih
 
 ## 📣  Tingkatkan Brand Awareness dengan Menjadi Sponsor! 📣
 
@@ -50,8 +50,8 @@ Dapatkan kesempatan untuk meningkatkan brand awareness Anda dengan menjadi spons
 
 **Kami menyediakan 12 slot sponsor dengan benefit:**
 
-✨ Penempatan logo brand di lokasi strategis
-🎙️ Pengumuman brand Anda oleh MC di tengah acara
+- ✨ Penempatan logo brand di lokasi strategis
+- 🎙️ Pengumuman brand Anda oleh MC di tengah acara
 
 **Harga:**
 
@@ -67,5 +67,6 @@ Tunggu apa lagi? Segera daftarkan bisnis Anda dan jadilah bagian dari kemeriahan
 
 **Informasi dan Pendaftaran:**
 
-👩‍💼 Ibu Christine 
-📲 WhatsApp: +6281910909000 
+- 👩‍💼 Ibu Christine 
+- [📲 WhatsApp](https://wa.me/6281910909000)
+- [📝 Isi form kurasi tenant disini](https://forms.gle/7HXh5XqtrNchGwxaA)
