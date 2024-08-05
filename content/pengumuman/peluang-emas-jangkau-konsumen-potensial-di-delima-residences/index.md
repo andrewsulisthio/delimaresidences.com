@@ -72,6 +72,12 @@ Dapatkan kesempatan untuk meningkatkan brand awareness Anda dengan menjadi spons
 
 Sama seperti timeline pendaftaran tenant.
 
+## 📸 Pengabadian Logo Sponsor di Photobooth Merdeka! 📸
+
+Khusus untuk sponsor, dapatkan **eksposur lebih maksimal** dengan penempatan logo brand Anda di **background photobooth** berukuran **50cm x 50cm**! 🤩 Setiap foto yang diambil pengunjung dijamin akan semakin meriah dan secara tidak langsung mempromosikan brand Anda! 🎉
+
+Jadilah bagian tak terpisahkan dari momen berkesan warga Delima di Merdeka in Mozaic! ✨
+
 ## 📞 Hubungi Kami! 
 
 Tunggu apa lagi? Segera daftarkan bisnis Anda dan jadilah bagian dari kemeriahan Merdeka in Mozaic! 🎉
