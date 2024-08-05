@@ -44,6 +44,17 @@ Kami membuka kesempatan bagi **12 tenant terpilih** untuk mengisi lapak berukura
 - ✅ **9 Agustus 2024:** Seleksi tenant oleh panitia
 - 📣 **10 Agustus 2024:** Pengumuman tenant terpilih
 
+## Seleksi Tenant Bazaar Pendekar 
+
+Proses kurasi tenant Bazaar Pendekar akan mempertimbangkan beberapa hal berikut:
+
+1. **Keragaman Jenis Usaha:** 🛍️
+    Demi kenyamanan pengunjung dan memberikan kesempatan bagi berbagai jenis usaha, kami akan memprioritaskan keragaman jenis tenant yang berpartisipasi. Usaha yang unik dan menarik akan mendapatkan nilai tambah. 😉
+2. **Kuota Terbatas:** 
+    Mengingat kuota tenant yang tersedia terbatas, kami akan melakukan seleksi ketat berdasarkan data yang diberikan dalam formulir dan kesesuaiannya dengan kriteria acara Merdeka in Mozaic. 
+
+Keputusan panitia dalam memilih tenant bersifat mutlak dan tidak dapat diganggu gugat. 🙏
+
 ## 📣  Tingkatkan Brand Awareness dengan Menjadi Sponsor! 📣
 
 Dapatkan kesempatan untuk meningkatkan brand awareness Anda dengan menjadi sponsor Merdeka in Mozaic! 
