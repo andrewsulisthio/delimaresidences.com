@@ -70,7 +70,8 @@ Yuk, daftarkan putra-putri dan anggota keluarga kamu sekarang juga! Caranya gamp
 1. (Warga Opal) Hubungi Bu Vero di WhatsApp [082331646568](https://wa.me/6282331646568) 📞
 2. (Warga Emerald) Hubungi Bu Reynetta di WhatsApp [081703091331](https://wa.me/6281703091331) 📞
 3. (Warga Sapphire) Hubungi Pak Ricky di WhatsApp [087852900938](https://wa.me/6287852900938) 📞
-4. Sebutkan: Nama - Usia - Jenis Lomba 
+4. (Warga Topaz) Hubungi Bu Fizca di WhatsApp [089677377291](https://wa.me/6289677377291) 📞
+5. Sebutkan: Nama - Usia - Jenis Lomba 
 
 *Untuk lomba kategori grup akan dibentuk saat lomba.*
 
