@@ -40,9 +40,9 @@ Kami membuka kesempatan bagi **12 tenant terpilih** untuk mengisi lapak berukura
 **Timeline Pendaftaran & Seleksi Tenant:**
 
 - 📝 **3 Agustus 2024:** Pendaftaran dibuka melalui [Formulir Kurasi Tenant](https://forms.gle/7HXh5XqtrNchGwxaA)
-- ⛔ **9 Agustus 2024:** Batas akhir pengisian Formulir Kurasi Tenant
-- ✅ **9 Agustus 2024:** Seleksi tenant oleh panitia
-- 📣 **10 Agustus 2024:** Pengumuman tenant terpilih
+- ⛔ **12 Agustus 2024:** Batas akhir pengisian Formulir Kurasi Tenant
+- ✅ **13 Agustus 2024:** Seleksi tenant oleh panitia
+- 📣 **14 Agustus 2024:** Pengumuman tenant terpilih
 
 ## Seleksi Tenant Bazaar Pendekar 
 
