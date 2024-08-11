@@ -98,4 +98,4 @@ Siapkan diri untuk merayakan kemerdekaan dengan lebih meriah lagi! 🎉
 
 Nantikan keseruan dan kejutan lebih meriah di Merdeka Games tahun depan! 💪🏆  
 
-Untuk melihat keseruan Merdeka Games, cek foto-fotonya di [link ke repository foto].
+Untuk melihat keseruan Merdeka Games, cek foto-fotonya di [link Google Drive ini](https://drive.google.com/drive/folders/1Cp-JwJ-r4Gr8eU-bQUnR1oQMTYFNIueP).
