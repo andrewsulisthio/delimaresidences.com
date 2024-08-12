@@ -38,7 +38,7 @@ Selamat kepada semua pemenang lomba! Semangat juangnya membara seperti api kemer
 
 * **Color Picking Ball:**
     1.  🥇 Ara / Sapphire 2-7
-    2.  🥈 Marki / Opal 1-66![alt text](PIM02414.JPG)
+    2.  🥈 Marki / Opal 1-66
     3.  🥉 Zaki / Sapphire 1-9
     *  🏅 Gani / Sapphire 5-5 (Juara Harapan)
 
@@ -113,7 +113,7 @@ Terima kasih juga untuk tenant makanan dan minuman yang ikut meramaikan Merdeka 
 
 Merdeka in Mozaic masih berlanjut! Catat tanggalnya dan jangan sampai ketinggalan:
 
-* **Bazaar Pendekar**: 16 Agustus 2024 (Malam hari), di [Tempat Bazaar Pendekar]
+* **Bazaar Pendekar**: 16 Agustus 2024 (Malam hari), di Delima Park
 * **Paws of Freedom**: [Tanggal menyusul], di [Tempat Paws of Freedom]
 
 Siapkan diri untuk merayakan kemerdekaan dengan lebih meriah lagi! 🎉
