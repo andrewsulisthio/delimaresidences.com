@@ -25,9 +25,11 @@ Lebih dari sekadar kemeriahan, *Merdeka in Mozaic 2024* menjadi  wadah  bagi  wa
 ![Merdeka Games](PIM03619.JPG)
 Banyak  warga  yang  menyampaikan  bahwa  acara  ini  sangat  dinantikan  setiap  tahunnya.  Mereka  antusias  mengikuti  setiap  rangkaian  acara,  mulai  dari  *Merdeka Games*  hingga  *Bazaar Pendekar*.   Tak  sedikit  pula  yang  memberikan  masukan  agar  acara  ini  dapat  diselenggarakan  lebih  lama  lagi,  terutama  *Merdeka  Games*  yang  diharapkan  dapat  menjadi  ajang  kompetisi  selama  dua  hari  penuh.
 
+![Pemenang Quiz Ukuran Sepatu Terbesar](PIM03944.JPG)
+*Pemenang quiz Merdeka dengan pertanyaan ukuran sepatu terbesar*
+
 Kebahagiaan  ini  juga  kami  bagikan  kepada  para  pahlawan  lingkungan  &  keamanan  Delima Residences.  Para  petugas  keamanan,  kebersihan,  dan  seluruh  pihak  yang  bertugas  di  balik  layar  turut  merasakan  kehangatan  *Merdeka in Mozaic 2024*.   Mereka diajak  untuk  bersama-sama  menikmati  acara,  bersantap,  dan  merasakan  kehangatan  kebersamaan  bersama  warga. 
 
-![Momen Mengharukan](PIM03944.JPG)
 Salah satu momen  mengharukan  terjadi  ketika  seorang  petugas  keamanan  dari  Cluster  Opal  berhasil  memenangkan  hadiah  utama  doorprize  sebesar  Rp 1 juta!  Hadiah  tersebut  ia  dapatkan  dari  kupon  yang  diberikan  oleh  salah  satu  warga  Opal.   Momen  ini  menjadi  bukti  nyata  bahwa  *Merdeka in Mozaic 2024*  berhasil  menjalin  kebersamaan  dan  kebahagiaan  bagi  semua  kalangan.
 
 ![Prize 1](PIM03370.JPG)
